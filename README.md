@@ -11,6 +11,7 @@ Temp/Humidity Sensor intraction
 PIR sensor of home alarm interaction
 Ajax fast data exchange web code
 Wireless ASK remote Modules for Command
+Dynamic DNS feature
 Flower House/ Cooler /Lamp with ASK supprt switchs are supported
 
 Just Replace Wifi SSID,PASS with your own
