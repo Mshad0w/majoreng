@@ -17,7 +17,7 @@ Flower House/ Cooler /Lamp with ASK switchs are initialized by default <br>
 
 Just Replace Wifi SSID,PASS with your own <br>
 ON/OFF signal codes (111111,00000) <br>
-
+Change Manual IP adress 192.168.3.X to your Router's <br>
 Default user/pass of enterance is: <br>
 Admin/admin <br> <br>
 
