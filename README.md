@@ -18,5 +18,15 @@ Just Replace Wifi SSID,PASS with your own <br>
 ON/OFF signal codes <br>
 
 Default user/pass of enterance is: <br>
-Admin/admin
+Admin/admin <br> <br>
+
+##########################################  <br>
+Necessary Libraries:  <br>
+https://github.com/sui77/rc-switch  <br>
+https://github.com/sstaub/Ticker  <br>
+https://github.com/adafruit/DHT-sensor-library  <br>
+https://github.com/ayushsharma82/EasyDDNS  <br>
+
++ <br>
+Esp8266 Libraries  <br>
 
