@@ -1,7 +1,6 @@
 # majoreng
-Arduino, ARM,etc projects
 
-Nodemcu Projrc
+Nodemcu Project
 
 Here's a full featured Project for controlling Home,Office ,etc remotely from internet. Features:
 
