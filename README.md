@@ -2,7 +2,7 @@
 
 Nodemcu Project
 
-Here's a full featured Project for controlling Home,Office ,etc remotely from internet. <br>
+Here's a full featured Project for controlling Flower House,Home,Office ,etc remotely from internet. <br>
 Features:<br>
 
 User/Pass page for enterance page <br>
