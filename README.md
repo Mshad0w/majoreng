@@ -1,4 +1,4 @@
-# majoreng
+# Smart Automation Interface with Nodemcu
 
 Nodemcu Project
 
